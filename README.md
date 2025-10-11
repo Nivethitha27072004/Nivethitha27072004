@@ -1,4 +1,7 @@
-# Hi there, I'm Nive 👋  
+<!-- GitHub Profile Banner -->
+<p align="center">
+  <img src="Internal storage/Pictures/Canva/Black Modern Personal LinkedIn Banner_20251011_235717_0000.png" alt="Nive - Aspiring Full Stack Developer" width="100%" />
+</p>
 
 ## 👩‍💻 About Me
 - 🎓  FullStack Developer| Java | DSA Enthusiast
