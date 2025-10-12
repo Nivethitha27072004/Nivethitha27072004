@@ -1,6 +1,6 @@
 <!-- GitHub Profile Banner -->
 <p align="center">
-  <img src="Internal storage/Pictures/Canva/Black Modern Personal LinkedIn Banner_20251011_235717_0000.png" alt="Nive - Aspiring Full Stack Developer" width="100%" />
+  <img src="WhatsApp Image 2025-10-12 at 12.58.04_768b25ae.jpg" alt="Nive - Aspiring Full Stack Developer" width="100%" />
 </p>
 
 ## 👩‍💻 About Me
